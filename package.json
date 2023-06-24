@@ -1,6 +1,6 @@
 {
-  "homepage":"https://github.com/Tchudjin/projets_react",
-  "name": "projets_react",
+  "homepage":"https://github.com/Tchudjin/country_app",
+  "name": "country_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
